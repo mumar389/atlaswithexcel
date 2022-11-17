@@ -2,7 +2,7 @@ const mongoose=require('mongoose');
 
 //Your mongodb url
 //url-:mongodb+srv://id:password@cluster0.dtbfvbd.mongodb.net/
-mongoose.connect('mongodb+srv://umar389:test786@cluster0.dtbfvbd.mongodb.net/prac');
+mongoose.connect('mongodb+srv://umar389:nanana1222@cluster0.dtbfvbd.mongodb.net/prac');
 
 const db=mongoose.connection;
 
