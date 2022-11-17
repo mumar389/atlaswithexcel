@@ -34,7 +34,14 @@ ourExcelDocument[0].map(async(student)=>{
 })
 
     console.log("Excel saved to mongodb");
-
+/*
+Sorting the document and printing it-:
+code-:
+const sroted=ourExcelDocument[0].sort(function(a,b){
+    return a.RollNo-b.RollNo
+})
+console.log(sroted);
+*/
 
 
 
