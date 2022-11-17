@@ -9,6 +9,7 @@ step-1:npm init(ignore if already done)
 2:get all three files-:index.js,model.js,mongoose.js,package-lock.json,package.json
 3:npm install
 4:get your excel file in the same folder
+5:change the mongodb url in mongoose.js,,place your own mongodb url from atlas
 
 */
 //Importing the model
